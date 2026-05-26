@@ -32,3 +32,4 @@ terraform.rc
 .DS_Store
 Thumbs.db
 *.swp
+*.swn
