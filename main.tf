@@ -69,5 +69,5 @@ resource "aws_s3_bucket" "abhisha_bucket" {
 
   tags = {
     Name = "abhishaTerraformBucket"
-  
   }
+}
